@@ -11,7 +11,7 @@ The aim of this project is to build a robust classifier able to classify a given
 
 
 # Methodology
-We tryed in this project multiple models, such as : 
+We tried in this project multiple models, such as : 
                 
                 - KNN
                 
